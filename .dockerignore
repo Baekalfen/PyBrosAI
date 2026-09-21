@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+checkpoints
+roms
+*.gb
+*.gbc
+*.zip
+.DS_Store

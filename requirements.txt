@@ -1,0 +1,8 @@
+numpy>=1.24
+gymnasium>=0.29,<1.1
+Pillow>=10
+torch>=2.2
+pyboy>=2.7.1
+pyopengl
+glfw
+PyOpenAL
